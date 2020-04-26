@@ -1,0 +1,32 @@
+.ordered_list{
+	list-style-type: none;
+}
+.unordered_list{
+	list-style-type: square;
+	list-style-position: outside;
+}
+.shpenzimet{
+	width: 100%;
+	border-collapse: collapse;
+}
+.shpenzimet td, .shpenzimet th{
+	border: 2px solid black;
+	padding: 10px;
+}
+.parent {
+	position: relative;
+	left: 100px;
+	top: 100px;
+}
+.titulli{
+	position: absolute;
+	top:10px;
+}
+.layout{
+	background: grey;
+	top: 0
+}
+.div{
+	float: left;
+	width: 30%;
+}
